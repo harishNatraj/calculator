@@ -1,0 +1,7 @@
+html, body {
+  margin:2px;
+  padding: 5px;
+}
+Button {
+  padding-inline: 10px;
+}
